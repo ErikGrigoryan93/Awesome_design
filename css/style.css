@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+header {
+  background-color: #3c9c84;
+  height: 40vh;
+  color: white;
+  font-family: sans-serif;
+  font-weight: 400;
+}
+header div {
+  padding: 100px;
+  line-height: 1.5;
+  max-width: 600px;
+}
+header div button {
+  color: white;
+  background-color: green;
+  border-radius: 4px;
+  text-transform: uppercase;
+  padding: 5px 10px;
+  margin-top: 15px;
+}
+header div p {
+  font-size: 15px;
+}
